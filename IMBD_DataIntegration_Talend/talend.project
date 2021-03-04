@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_7Vb_oE3mEeqNfuHt_pTRxg" label="New_Project" description="" language="java" technicalLabel="NEW_PROJECT" local="true" author="_7Vb_oU3mEeqNfuHt_pTRxg" productVersion="Talend Real-time Big Data Platform-7.1.1.20181026_1147" itemsRelationVersion="1.3">
+    <componentsSettings xmi:id="_RAEAUE6oEeqNfuHt_pTRxg" name="DI|tArray" family="Technical"/>
+    <componentsSettings xmi:id="_RAEAUU6oEeqNfuHt_pTRxg" name="DI|tHashOutput" family="Technical"/>
+    <componentsSettings xmi:id="_RAEAUk6oEeqNfuHt_pTRxg" name="DI|tHashInput" family="Technical"/>
+    <componentsSettings xmi:id="_RAEAU06oEeqNfuHt_pTRxg" name="DI|tArrayIn" family="Technical"/>
+    <migrationTask xmi:id="_7zgbsE3mEeqNfuHt_pTRxg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_7Vb_oU3mEeqNfuHt_pTRxg" login="shah.kav@husky.neu.edu" password="D41D8CD98F00B204E9800998ECF8427E"/>
+</xmi:XMI>
